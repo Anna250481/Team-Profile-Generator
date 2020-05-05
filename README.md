@@ -2,7 +2,7 @@
 
 
 ## Snapshot
-![Image description](./output/team.html)
+![Image description](./templates/Capture.png)
 
 
 ## Github
